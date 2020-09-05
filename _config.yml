@@ -1,12 +1,12 @@
-title: Your awesome title
+title: Saloni Mehta
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  # name: GitHub User
+  email: saloni.mehta073@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-
+google_analytics: UA-69225227-1
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -16,14 +16,15 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: Fartdispenser
+    github:  salonimehta073
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
+    instagram: salcupcake
+    linkedin: https://www.linkedin.com/in/mehta-saloni/
+    medium: https://medium.com/@saloni.mehta073/
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
@@ -58,3 +59,4 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-sitemap
