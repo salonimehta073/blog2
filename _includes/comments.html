@@ -38,7 +38,7 @@ function createCommentEl( response ) {
 	let commentContents = document.createElement( 'div' );
 	commentContents.classList.add( 'comment-content' );
 	commentContents.innerHTML = response.body;
-	// Progressive enhancement.
+	//Progressive enhancement.
 	if ( window.showdown ) {
 		let converter = new showdown.Converter();
 		commentContents.innerHTML = converter.makeHtml( response.body );
