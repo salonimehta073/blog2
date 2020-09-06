@@ -52,7 +52,10 @@ minima:
 
 # Build settings
 theme: minima
-
+disqus:
+  shortname:salonis-blog
+url:
+  https://saloni.xyz/
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
