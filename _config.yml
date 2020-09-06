@@ -55,7 +55,7 @@ theme: minima
 disqus:
   shortname:salonis-blog
 url:
-  https://saloni.xyz/
+  "https://saloni.xyz/"
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
