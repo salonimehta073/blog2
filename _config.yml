@@ -60,8 +60,7 @@ header_pages:
 theme: minima
 disqus:
   shortname:salonis-blog
-url:
-  "https://saloni.xyz/"
+url: https://saloni.xyz/
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
