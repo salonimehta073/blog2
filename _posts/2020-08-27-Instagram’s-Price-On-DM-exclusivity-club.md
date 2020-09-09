@@ -2,6 +2,7 @@
 layout: post
 author: Saloni
 title: Instagram’s Price On DM Exclusivity Club
+categories: Marketing
 image:
   path: /assets/link_preview.PNG
   height: 100
