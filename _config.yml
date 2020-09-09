@@ -5,7 +5,9 @@ author:
 description: I share thoughts and stuff
 google_analytics: UA-69225227-1
 show_excerpts: false # set to true to show excerpts on the homepage
-
+google:
+  tag_manager:
+    container_id: GTM-P67RC4N
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
