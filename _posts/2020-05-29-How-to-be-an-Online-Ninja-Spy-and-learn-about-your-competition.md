@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Saloni
-categories: marketing
+categories: Marketing
 image:
   path: /assets/link_preview.PNG
   height: 150
