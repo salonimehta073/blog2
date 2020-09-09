@@ -1,9 +1,7 @@
 ---
 layout: post
 author: Saloni
-categories: 
-    - "analytics"
-    - "marketing"
+categories: [analytics, marketing]
 image:
   path: /assets/link_preview.PNG
   height: 150
