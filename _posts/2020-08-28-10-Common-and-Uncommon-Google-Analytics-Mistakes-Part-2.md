@@ -2,6 +2,7 @@
 layout: post
 author: Saloni
 title: 10 Common and Uncommon Google Analytics Mistakes — Part 2
+categories: Analytics
 image:
   path: /assets/link_preview.PNG
   height: 100
