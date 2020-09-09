@@ -2,6 +2,7 @@
 layout: post
 author: Saloni
 comments_id: 3
+categories: Marketing
 image:
   path: /assets/link_preview.PNG
   height: 100
