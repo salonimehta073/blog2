@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Saloni
-categories: personal
+categories: Personal
 image:
   path: /assets/link_preview.PNG
   height: 100
