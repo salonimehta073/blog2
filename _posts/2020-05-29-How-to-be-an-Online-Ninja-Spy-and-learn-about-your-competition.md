@@ -6,8 +6,8 @@ categories:
     - "marketing"
 image:
   path: /assets/link_preview.PNG
-  height: 100
-  width: 100
+  height: 150
+  width: 150
 ---
 
 An introduction to popular tools and extensions that can help you understanding your competitor’s marketing and content strategy
