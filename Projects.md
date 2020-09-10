@@ -8,4 +8,4 @@ permalink: /projects/
 > P.S. If you just want to check the website, please click [here](https://inspiron.webflow.io/)
 
 2. [Email Assistant Using GlideApps and Google Sheets]({% post_url /_posts/2020-08-27-Email-Assistant-Using-Glide-And-Google-Sheets %})
-> P.S. If you just want to check the high-fidelity wireframe, lease click [here](https://email-assistant.glideapp.io/)
+> P.S. If you just want to check the high-fidelity wireframe, please click [here](https://email-assistant.glideapp.io/)
