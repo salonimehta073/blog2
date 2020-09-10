@@ -28,6 +28,7 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }} •  {% include read-time.html content=post.content %} </span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
+            <a href="{{ post.url }}" ><img src="{{ post.thumbnail }}" />
             {{ post.title | escape }}
           
           </a>
