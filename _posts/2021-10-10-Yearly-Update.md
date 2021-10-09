@@ -3,10 +3,6 @@ layout: post
 author: Saloni
 title: Yearly Update
 categories: Personal
-image:
-  path: 
-  height: 100
-  width: 100
 ---
 
 
