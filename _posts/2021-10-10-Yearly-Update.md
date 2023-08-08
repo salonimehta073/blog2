@@ -2,7 +2,6 @@
 layout: post
 author: Saloni
 title: Yearly Update
-categories: Personal
 tags: personal
 ---
 
