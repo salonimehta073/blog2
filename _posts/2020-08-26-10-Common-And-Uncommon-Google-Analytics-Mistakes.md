@@ -2,6 +2,7 @@
 layout: post
 author: Saloni
 categories: Analytics
+tags: analytics marketing
 image:
   path: /assets/link_preview.PNG
   height: 100
