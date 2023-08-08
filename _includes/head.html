@@ -4,6 +4,9 @@
   analytics.load("vqZ0a5GWGfYX0VHpBgJJbrMLOgedWerk");
   analytics.page();
   }}();
+{% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
 </script>
   {% include GoogleTagManager_head.liquid %}
   <meta charset="utf-8">
