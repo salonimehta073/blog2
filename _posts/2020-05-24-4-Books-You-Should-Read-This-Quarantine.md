@@ -2,6 +2,7 @@
 layout: post
 author: Saloni
 categories: Personal
+tags: reading personal
 image:
   path: /assets/link_preview.PNG
   height: 100
