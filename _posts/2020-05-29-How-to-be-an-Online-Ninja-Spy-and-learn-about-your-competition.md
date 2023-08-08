@@ -2,6 +2,7 @@
 layout: post
 author: Saloni
 categories: Marketing
+tags: marketing
 image:
   path: /assets/link_preview.PNG
   height: 150
