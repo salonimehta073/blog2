@@ -3,6 +3,7 @@ layout: post
 author: Saloni
 title: Email Assistant Using Glide and Google Sheets
 categories: Product
+tags: product marketing
 image:
   path: /assets/link_preview.PNG
   height: 100
